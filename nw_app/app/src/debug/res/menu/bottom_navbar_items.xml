@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_msg"
+        android:title="@string/menu_msg"
+        android:icon="@drawable/ic_announcement_black_24dp"
+        />
+
+    <item
+        android:id="@+id/menu_call"
+        android:title="@string/menu_call"
+        android:icon="@drawable/ic_settings_remote_black_24dp"
+        />
+
+    <item
+        android:id="@+id/menu_rate"
+        android:title="@string/menu_rate"
+        android:icon="@drawable/ic_star_rate_black_18dp" />
+</menu>

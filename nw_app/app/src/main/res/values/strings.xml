@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SafeWalk</string>
+    <string name="title_activity_maps">SafeWalk</string>
+
+    <string name="map_not_ready">Map is not ready yet</string>
+    <string name="mylocation_button">My Location Button</string>
+    <string name="mylocation_layer">My Location Layer</string>
+    <string name="zoom_buttons">Zoom Buttons</string>
+    <string name="zoom_gestures">Zoom Gestures</string>
+
+    <string name="menu_msg">Message</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_rate">Rate</string>
+
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+    <string name="exp">Write about your experience</string>
+    <string name="confirm">Confirm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="option_send_msg">Share location</string>
+    <string name="option_cancel">Cancel</string>
+    <string name="option_call">Call Police Station</string>
+    <string name="option_call_911">Call 911</string>
+    <string name="enterRate">Enter a rate</string>
+    <string name="enterRateDone">OK</string>
+</resources>
